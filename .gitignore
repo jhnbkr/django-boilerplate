@@ -1,0 +1,40 @@
+# IDE
+.idea/
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+scratches/
+
+# I18N
+*.mo
+
+# Python
+__pycache__
+*.py[cod]
+
+# Environment
+.env
+venv/
+
+# Develop
+develop/data
+
+# Database
+*.sqlite3
+
+# OS
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Runtime
+pids
+*.pid
+*.seed
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log
